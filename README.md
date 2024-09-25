@@ -1,4 +1,4 @@
-# kilometros-recorridos-por-litro-motocicleta
+# kilometros-recorridos-por-litro-motocicleta,sepulveda gonzalez angel alejandro
 
 k_recorridos = float(input("Ingresa los kilómetros recorridos en motocicleta: "))  # Ingresar kilómetros recorridos
 k = float(input("Cuántos kilómetros avanza un litro de gasolina: "))  # Ingresar cuántos kilómetros avanza un litro de gasolina
